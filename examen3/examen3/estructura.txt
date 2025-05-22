@@ -1,0 +1,42 @@
+.
+├── build
+│   └── main
+│       ├── Analysis-00.toc
+│       ├── base_library.zip
+│       ├── EXE-00.toc
+│       ├── localpycs
+│       │   ├── pyimod01_archive.pyc
+│       │   ├── pyimod02_importers.pyc
+│       │   ├── pyimod03_ctypes.pyc
+│       │   └── struct.pyc
+│       ├── main.pkg
+│       ├── PKG-00.toc
+│       ├── PYZ-00.pyz
+│       ├── PYZ-00.toc
+│       ├── warn-main.txt
+│       └── xref-main.html
+├── dist
+│   └── main
+├── estructura.txt
+├── examen3.yml
+├── examen3.zip
+├── funciones
+│   ├── divisores.py
+│   ├── fibonacci_inverso.py
+│   ├── __init__.py
+│   ├── primos.py
+│   ├── __pycache__
+│   │   ├── divisores.cpython-311.pyc
+│   │   ├── fibonacci_inverso.cpython-311.pyc
+│   │   ├── __init__.cpython-311.pyc
+│   │   ├── opcion1.cpython-311.pyc
+│   │   ├── opcion2.cpython-311.pyc
+│   │   ├── opcion3.cpython-311.pyc
+│   │   ├── opcion4.cpython-311.pyc
+│   │   ├── primos.cpython-311.pyc
+│   │   └── triangulo_letras.cpython-311.pyc
+│   └── triangulo_letras.py
+├── main.py
+└── main.spec
+
+6 directories, 33 files
